@@ -7,6 +7,8 @@ Some TensorFlow Readings below
 Beginner Examples 
 - <a href="https://developers.google.com/codelabs/tensorflow-1-helloworld#0" target="_blank">Intro to ML</a>
 
+<a href="https://www.youtube.com/watch?v=i8NETqtGHms" target="_blank">TensorFlow in 100 Seconds</a> by Fireship on YT
+
 All TensorFlow <a href="https://www.tensorflow.org/resources/libraries-extensions" target="_blank">Library</a> Extensions   
 TensorFlow <a href="https://www.tensorflow.org/lite/models" target="_blank">Models</a>
 
